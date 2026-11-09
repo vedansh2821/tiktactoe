@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="594" height="419" viewBox="0 0 594 419">
+<rect width="594" height="419" fill="#343434"/>
+<rect x="0" y="0" width="594" height="48" fill="#343434"/>
+<text x="297" y="33" font-family="Consolas, monospace" font-size="20" fill="#ffde57" text-anchor="middle">X is the winner!</text>
+<rect x="0" y="48" width="198" height="84" fill="#646464" stroke="#c8c8c8" stroke-width="1"/>
+<text x="99" y="110" font-family="Consolas, monospace" font-size="50" font-weight="bold" fill="#ffde57" text-anchor="middle">X</text>
+<rect x="198" y="48" width="198" height="84" fill="#646464" stroke="#c8c8c8" stroke-width="1"/>
+<text x="297" y="110" font-family="Consolas, monospace" font-size="50" font-weight="bold" fill="#ffde57" text-anchor="middle">X</text>
+<rect x="396" y="48" width="198" height="84" fill="#646464" stroke="#c8c8c8" stroke-width="1"/>
+<text x="495" y="110" font-family="Consolas, monospace" font-size="50" font-weight="bold" fill="#ffde57" text-anchor="middle">X</text>
+<rect x="0" y="132" width="198" height="84" fill="#343434" stroke="#c8c8c8" stroke-width="1"/>
+<text x="99" y="194" font-family="Consolas, monospace" font-size="50" font-weight="bold" fill="#4584b6" text-anchor="middle">O</text>
+<rect x="198" y="132" width="198" height="84" fill="#343434" stroke="#c8c8c8" stroke-width="1"/>
+<text x="297" y="194" font-family="Consolas, monospace" font-size="50" font-weight="bold" fill="#4584b6" text-anchor="middle">O</text>
+<rect x="396" y="132" width="198" height="84" fill="#343434" stroke="#c8c8c8" stroke-width="1"/>
+<rect x="0" y="216" width="198" height="84" fill="#343434" stroke="#c8c8c8" stroke-width="1"/>
+<rect x="198" y="216" width="198" height="84" fill="#343434" stroke="#c8c8c8" stroke-width="1"/>
+<rect x="396" y="216" width="198" height="84" fill="#343434" stroke="#c8c8c8" stroke-width="1"/>
+<rect x="0" y="300" width="594" height="59" fill="#343434" stroke="#c8c8c8" stroke-width="1"/>
+<text x="297" y="338" font-family="Consolas, monospace" font-size="20" fill="white" text-anchor="middle">restart</text>
+<rect x="0" y="359" width="594" height="60" fill="#343434" stroke="#c8c8c8" stroke-width="1"/>
+<text x="297" y="397" font-family="Consolas, monospace" font-size="20" fill="white" text-anchor="middle">Made By = Vedansh Vyas</text>
+</svg>
