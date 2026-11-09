@@ -6,7 +6,9 @@ def change_bg_random():
     r = random.randint(0, 255)
     g = random.randint(0, 255)
     b = random.randint(0, 255)
-    return (r, g, b)
+    color = f"#{r:02x}{g:02x}{b:02x}"
+    window.configure(background=color)
+    frame.configure(background=color)
 
 def set_tile(row, column):
     global curr_player
@@ -26,6 +28,7 @@ def set_tile(row, column):
     
     label["text"] = curr_player+"'s turn"
 
+    check_winner()
 
 
 
@@ -133,7 +136,7 @@ button.grid(row=4, column=0, columnspan=3, sticky="we")
 
 button = tkinter.Button(frame, text="Made By = Vedansh Vyas ", font=("Consolas", 20), background=color_gray,
                    foreground="white", command=change_bg_random)
-button.grid(row=4, column=0, columnspan=3, sticky="we")
+button.grid(row=5, column=0, columnspan=3, sticky="we")
 frame.pack()
 
 
